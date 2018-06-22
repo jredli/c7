@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7d7af16-4b39-44c5-8973-1b90fb59511c" name="Default" comment="" />
+    <list default="true" id="f7d7af16-4b39-44c5-8973-1b90fb59511c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/readme.html" afterPath="$PROJECT_DIR$/readme.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/gridz/functions.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="423">
               <caret line="455" column="118" lean-forward="false" selection-start-line="455" selection-start-column="118" selection-end-line="455" selection-end-column="118" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -99,6 +112,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/gridz/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/gridz/content.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/gridz/functions.php" />
+        <option value="$PROJECT_DIR$/readme.html" />
       </list>
     </option>
   </component>
@@ -184,12 +198,12 @@
       <updated>1529573384324</updated>
       <workItem from="1529573385566" duration="15063000" />
       <workItem from="1529659310813" duration="5609000" />
-      <workItem from="1529667620340" duration="164000" />
+      <workItem from="1529667620340" duration="327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20836000" />
+    <option name="totallyTimeSpent" value="20999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="139" y="24" width="1857" height="1212" extended-state="6" />
@@ -353,6 +367,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
           <caret line="455" column="118" lean-forward="false" selection-start-line="455" selection-start-column="118" selection-end-line="455" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
